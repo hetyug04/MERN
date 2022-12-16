@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Crete Round', serif;
+}
+
+body{
+  background-color: rgb(0, 0, 68);
+}
+
+.landingBody{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.calendar{
+  width: 40rem;
+  margin: 0 auto;
+  display: block;
+}
